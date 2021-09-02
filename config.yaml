@@ -1,8 +1,7 @@
-bootstrap.servers: 'xxx.confluent.cloud:9092'
-group.id: 'xxx'
-session.timeout.ms: 6000
+bootstrap.servers: 'XXX.confluent.cloud:9092'
+group.id: 'XXXX'
+session.timeout.ms: 60000
 sasl.mechanism: "PLAIN"
-sasl.username: 'xxx'
-sasl.password: 'xxx/xxx'
+sasl.username: 'XXX'
+sasl.password: 'XXX+A'
 security.protocol: "SASL_SSL"
-auto.offset.reset: 'earliest'
